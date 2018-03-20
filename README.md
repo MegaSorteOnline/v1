@@ -1,2 +1,2 @@
 # v1
-API definitions start &amp; MVP implementation of MegaSenaEstatisticas fucnionalities
+API definitions &amp; MVP implementation of MegaSenaEstatisticas features
